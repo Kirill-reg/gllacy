@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Кирилл Приходкин](https://vk.com/pokamolodoyi).
-* Наставник: [Илья Приходкин](https://vk.com/prikhodkin.ilya)
+* Наставник: [Илья Приходкин](https://vk.com/prikhodkin.ilya).
 
 ---
 
